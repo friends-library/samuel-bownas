@@ -1,5 +1,6 @@
 == Chapter VI.
 
+[.chapter-subtitle--blurb]
 An account of my travels in America the second time, being in 1726,
 and in the fiftieth year of my age.
 
@@ -64,7 +65,7 @@ it was resolved that he should be pardoned.
 Thus he was preserved from that untimely end, to run out nature`'s race,
 which was eighty years.
 
-I went after this meeting to visit Robert Jordan, jr., the prisoner,
+I went after this meeting to visit Robert Jordan, Jr., the prisoner,
 and the next day was at a funeral, the people being very humble,
 by reason of a great mortality,
 so that preaching the Gospel had a very great reach upon them,

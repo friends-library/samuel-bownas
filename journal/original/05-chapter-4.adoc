@@ -748,10 +748,16 @@ Thus was this affair ended.
 The first letter I wrote the parson, with the parson`'s answer, and my reply,
 are annexed, viz:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Bownas to William Ray
 
+[.signed-section-context-open]
 Lymington, the 15th of the Fourth month, June, 1712.
 
+[.salutation]
 Neighbour Ray,
 
 Since thou art pleased to proceed against me by justice`'s warrant,
@@ -772,12 +778,21 @@ and if I must, as I have already done, suffer the spoiling of my goods,
 I hope passively to submit and bear it.
 This I conclude with desires of good for thee and thine every way.
 
+[.signed-section-signature]
 Samuel Bownas.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Ray to Samuel Bownas
 
+[.signed-section-context-open]
 At the Parsonage-house, July 24th, 1712
 
+[.salutation]
 Sir,
 
 I have been above thirteen years in the parish,
@@ -900,24 +915,36 @@ However, if you are willing to live peaceably, I shall be as moderate as you can
 and for that reason have referred this business to Mr. Smith,
 whom I have authorised to do as he thinks fit; and am, sir,
 
+[.signed-section-closing]
 Your friend and well-wisher,
 
+[.signed-section-signature]
 William Ray.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Bownas to William Ray
 
+[.signed-section-context-open]
 Lymington, the 10th of the Sixth month, August, 1712.
 
+[.salutation]
 Neighbour Ray,
 
 Since thou hast advanced some arguments for thy taking tithes,
 I have somewhat to offer in answer thereto, for my refusal.
 
+[.numbered]
 1st. Thou art pleased to write,
 "`I ought to thank thee for bearing with this injustice so long;`"
 but I take the refusal of paying tithes to be no injustice.
 Therefore, etc.
 
+[.numbered]
 2nd. Thou says, "`when I go to law with another, or some that differ from me,
 I do not think it spoiling of their goods;`" which
 I do not take to be a parallel case with this;
@@ -926,11 +953,13 @@ for which he, whom I so go to law with, shall have received some valuable consid
 but from thee I have received none for the tithe of my increase;
 therefore it is not a parallel case.
 
+[.numbered]
 3d. He with whom I go to law shall have no just plea of conscience,
 because if I can have no plain demonstration that he had of me
 a valuable consideration for which I make my demands upon him,
 I will not go to law at all; therefore it is not a parallel case.
 
+[.numbered]
 4th. If on such a foundation I go to law, and force my adverse party to justice by law,
 I conclude with thee, it is not spoiling of his goods.
 But to go to law, and by it take away people`'s goods,
@@ -1064,6 +1093,7 @@ I now assure thee, that it is not out of stubbornness, ill-humour, or covetousne
 but purely on a principle of conscience, for these reasons following,
 that I can neither pay nor receive tithes.
 
+[.numbered]
 1st. The dedication of them is grossly superstitious,
 and I think protested against by most,
 unless such as love to suck the sweets of other men`'s labour,
@@ -1072,6 +1102,7 @@ for the redemption of his own soul, with the souls of his ancestors;
 in the consideration whereof,
 the clergy were to sing a certain number of masses for the king and his nobles.
 
+[.numbered]
 2nd. It is already granted by me,
 that we must render to Caesar the things that are Caesar`'s,
 and unto God the things that are God`'s. And I promise thee,
@@ -1092,12 +1123,14 @@ but choose rather to please God than man,
 although it may be to my disadvantage in this world,
 yet by so doing I hope for future gain.
 
-3d. And again, tithes are required to be paid as a religious act:
+[.numbered]
+3rd. And again, tithes are required to be paid as a religious act:
 viz. "`to God and holy church;`" and I am persuaded that God requires no such thing,
 therefore I cannot pay them with a safe conscience,
 being a Protestant against that which I call popery, not in word and tongue only,
 but in deed and truth also.
 
+[.numbered]
 Lastly.
 Tithes are not required by the Gospel, that I can understand.
 If thou canst make it out, please to do it, for it is clear to me,
@@ -1138,9 +1171,13 @@ This with due respects from him who shall always
 be ready and willing to serve thee and thine,
 in anything I can with a safe conscience, and in any office of love mayest command
 
+[.signed-section-closing]
 Thy friend and neighbour,
 
+[.signed-section-signature]
 Samuel Bownas.
+
+--
 
 These letters were exchanged between us some weeks before I was made a prisoner,
 and whether they might soften him or not, I dare not say;

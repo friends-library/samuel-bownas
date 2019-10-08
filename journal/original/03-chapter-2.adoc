@@ -1,5 +1,6 @@
 == Chapter II.
 
+[.chapter-subtitle--blurb]
 An account of my journey into Scotland, in the work of the ministry,
 begun the 11th of the eighth month, 1701.
 
@@ -121,6 +122,9 @@ on condition we would depart the town without preaching;
 but we could make no such agreement with them, and so we told the messenger.
 A little after he was gone, I wrote the following lines to the provost.
 
+[.embedded-content-document.letter]
+--
+
 It is in my mind to write these few lines to thee, the provost of this town of Jedburg,
 to let thee understand that our coming within thy
 liberties is not to disturb the peace of your town,
@@ -165,11 +169,16 @@ that thou mayest use it right,
 lest thou shouldst be found one of those who turn justice backwards,
 so that equity cannot enter.
 
+[.signed-section-closing]
 This is from one that wisheth thy welfare and salvation.
 
+[.signed-section-signature]
 Samuel Bownas.
 
+[.signed-section-context-close]
 Jedburg Tollbooth, 18th of Ninth month, 1701.
+
+--
 
 When I had written this, it was very hard to persuade any one to carry it to the provost,
 for now they were so affrighted about having anything to say or do with us,
@@ -648,8 +657,13 @@ and wrote a few lines to be sent to the meeting of ministers in Kendal, or elsew
 in Westmoreland, my native place; which I here insert,
 being the first fruits of that kind to my brethren.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Meeting of Ministers at Kendal, in Westmoreland.
 
+[.salutation]
 My dearly beloved brethren and sisters,
 
 In that love which in time past we have enjoyed together, do I heartily salute you,
@@ -700,7 +714,10 @@ the most beautiful ornaments a minister can ever be clothed with;
 that if it please Him we should meet again, our joy may be full in the Holy Ghost,
 which is the fervent prayer of your exercised friend and brother,
 
+[.signed-section-signature]
 Samuel Bownas.
+
+--
 
 This was written in the second month, 1702, and left with my friend John Tompkins,
 not to send it until he heard I was gone off.

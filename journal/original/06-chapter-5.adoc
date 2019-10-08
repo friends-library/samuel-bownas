@@ -1,5 +1,6 @@
 == Chapter V.
 
+[.chapter-subtitle--blurb]
 An account of my visiting Devonshire and Cornwall.
 
 On the 21st of the eighth month, 1715, I set out from home, and visited Taunton,

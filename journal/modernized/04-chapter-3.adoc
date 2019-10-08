@@ -1,5 +1,6 @@
 == Chapter III.
 
+[.chapter-subtitle--blurb]
 An account of my travels in America the first time.
 
 As advised by the Friends appointed to assist me, I took my passage on board the Josiah,
@@ -12,16 +13,25 @@ I visited some meetings in that province; but George Keith being there,
 and challenging disputes wherever he came, gave both me and Friends some exercise: to me,
 by challenging a dispute without my previous knowledge, in the following terms:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 To the preacher lately arrived from England.
 
 Sir, I intend to give notice after sermon, that you and myself are to dispute tomorrow,
 and would have you give notice thereof accordingly.
 
+[.signed-section-closing]
 Sir, I am your humble servant,
 
+[.signed-section-signature]
 George Keith.
 
+[.signed-section-context-close]
 Dated the first Sunday in August, 1702.
+
+--
 
 He wrote this on occasion of an honest Friend`'s speaking sharply to him,
 and giving him the title of an apostate; adding,
@@ -45,6 +55,10 @@ as if we were afraid, etc., and it was best to nip his expectation in the bud.`"
 As we knew nothing of the conference Keith had with the woman Friend two days before,
 I wrote to the following effect, being dated the same day:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 George Keith,
 
 I have received yours,
@@ -55,7 +69,10 @@ after due admonition given you by our Yearly Meeting in London,
 for your quarrelsome and irregular practices, you are not worthy of my notice,
 being no more to me than a heathen man and a publican; is the needful from
 
+[.signed-section-signature]
 Samuel Bownas.
+
+--
 
 John Faulkner carried our answer, and we went to our meeting,
 being at Chester in Maryland, as aforesaid.
@@ -257,7 +274,10 @@ as to be in communion with that erroneous people.
 But at his return to Keith, they laid their heads together,
 and trumped up the following deposition from what he had written:
 
-"`I William Bradford, of the city of New York, aged about forty years,
+[.embedded-content-document.legal]
+--
+
+I William Bradford, of the city of New York, aged about forty years,
 depose upon the holy evangelists.
 The 21st of November, 1702, going into the Quakers`' meeting at Nathaniel Pearsal`'s,
 deceased, in Hempstead, I heard one Bown, that is lately come out of England, preach,
@@ -318,11 +338,16 @@ But we have had sufficient proof of these hirelings in our day;
 for they will turn with every wind, and every turn that will answer their priests`' ends,
 as we have seen fulfilled largely in our day.
 
+[.signed-section-signature]
 William Bradford,
 
-Coram nobis Edward Burrows, Joseph Smith -- Justices.
+[.signed-section-signature]
+Coram nobis Edward Burrows, Joseph Smith, Justices.
 
+[.signed-section-context-close]
 A true copy by Thomas Cardall, High Sheriff.
+
+--
 
 Having patched up the above deposition in their own way and manner,
 and form of expression, Keith informs, and Bradford was his evidence;
@@ -335,6 +360,9 @@ through fear, to give his evidence on oath,
 in the words George Keith had got from him by guile, before the said two justices,
 which he did as follows, although to no purpose.
 
+[.embedded-content-document.legal]
+--
+
 Richard Smith, aged about twenty-eight years, deposes upon the four evangelists;
 that on Sunday last, he, this deponent, was at a Quakers`' meeting in Hempstead,
 where he heard a man preach, whose name he since understands is Samuel Bowne:
@@ -344,15 +372,25 @@ That the church of England in baptism made use of godfathers and godmothers;
 but our God is the ever living God, and has no need of a godfather or a godmother:
 and further this deponent says not.
 
+[.signed-section-signature]
 Richard Smith.
 
-Joseph Smith, Edward Burrows, -- Justices.
+[.signed-section-signature]
+Joseph Smith, Edward Burrows, Justices.
 
+[.signed-section-context-close]
 Jurat 24th Die 9bris 1702, coram nobis.
 
+--
+
+[.offset]
 Having thus laid a foundation for a prosecution, a warrant was issued;
 a copy of which is as under:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Queen`'s County, ss.
 
 Joseph Smith, Esq.; E. Burrows, Esq.; justices of the peace for Queen`'s County,
@@ -366,11 +404,13 @@ as shall on her majesty`'s behalf be objected against him.
 And hereof fail not at your peril.
 Dated under our hands and seals this 24th November, 1702.
 
+[.signed-section-signature]
 Vera Copia Ex. p. Joseph Smith,
 
-Thos.
-Cardall, vic.
-Ed. Burrows, -- Justices
+[.signed-section-signature]
+Thos. Cardall, vic. Ed. Burrows, Justices
+
+--
 
 Thus all things were ready to be put in execution and several substantial people,
 not Friends, would have had me gone off, but that I could not do.
@@ -453,6 +493,10 @@ and found very good and kind entertainment, his wife being a very religious,
 tender-hearted Friend, and took great care of me.
 Next morning we met again, the court order was brought in, executed, and was as under:
 
+[.embedded-content-document.legal]
+--
+
+[.salutation]
 Queen`'s County, ss.
 
 Joseph Smith, Esq.; E. Burrows, Esq.; justices of the peace for Queen`'s County, etc.,
@@ -472,9 +516,13 @@ in the second year of the reign of our sovereign lady Queen Anne, of England, et
 Annoq.
 Dom. 1702.
 
+[.signed-section-signature]
 A true copy, by Thomas Cardall.
 
+[.signed-section-signature]
 Joseph Smith, Edward Burrows, John Smith, Jonathan Whitehead.
+
+--
 
 I was delivered up a prisoner, and my friends left me,
 having first got me a good wholesome room, and a very good bed,
@@ -511,15 +559,18 @@ and for so doing I could give you some hard names, but at present shall forbear:
 is this your verdict touching the Quaker?`"
 for they mattered not the other bill, if they could have their ends on me.
 
+[.discourse-part]
 The foreman said, "`It is Sir.`"
 
-Judge.--I demand your reasons, why you have not found the bill against him?
+[.discourse-part]
+_Judge._--I demand your reasons, why you have not found the bill against him?
 
 One, whose name was James Clement, a bold man, well skilled in the law, answered,
 we are sworn to keep the queen`'s secrets, our fellows and our own;
 and for that reason we declare no reasons.
 
-Judge.--Now Mr. Wiseman speaks, but I tell you, you are not so sworn,
+[.discourse-part]
+_Judge._--Now Mr. Wiseman speaks, but I tell you, you are not so sworn,
 and I could find in my heart to lay you by the heels, and a fine upon your brethren.
 
 Clement replied, he might if he pleased, but when it was done,
@@ -538,10 +589,13 @@ and then the court adjourned till nine o`'clock the next day.
 The court met according to adjournment, and the jury being called over, the judge said,
 "`Foreman, how find you the bills?`"
 
-Foreman.--As we did yesterday.
+[.discourse-part]
+_Foreman._--As we did yesterday.
 
+[.discourse-part]
 On which the judge, in great wrath, charged them with obstructing the course of justice.
 
+[.discourse-part]
 "`Why,`" says Clement! "`because we cannot be of the same mind as the court?
 We would have you to know, that we desire no other but that justice may take place.`"
 

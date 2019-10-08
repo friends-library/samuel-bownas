@@ -1,5 +1,6 @@
 == Chapter VIII.
 
+[.chapter-subtitle--blurb]
 An account of my travels since the decease of my wife,
 who after a lingering illness departed this life, the 6th of the third month, 1746.
 
@@ -409,7 +410,8 @@ who by their stillness and attention,
 manifested a good disposition to hear and be informed;
 I came home the last day of the fifth month, 1748.
 
-An account of my journey to Bristol Yearly Meeting, and to London, Norwich, etc.
+[.blurb]
+=== An account of my journey to Bristol Yearly Meeting, and to London, Norwich, etc.
 
 I left home the 17th of the second month, 1749, and had a meeting near Shipton Mallet,
 to good satisfaction; then to Bristol, and stayed the Yearly Meeting,
@@ -535,9 +537,13 @@ but upon application to his Monthly Meeting,
 they sent us the following brief testimony of his service,
 from the time he finished his journal to his decease:
 
-From our Monthly Meeting held at Bridport, the 21st of the ninth month, 1755,
-to Friends at their second-day`'s morning meeting in London.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== From our Monthly Meeting held at Bridport, the 21st of the ninth month, 1755, to Friends at their second-day`'s morning meeting in London.
+
+[.salutation]
 Dear friends and brethren.
 
 The journal of our dear and worthy friend, Samuel Bownas,
@@ -557,9 +563,13 @@ which was very short, he seemed quite sensible of his approaching change,
 saying that he could not stay long with us,
 and hoped that kind Providence would be pleased to take him to himself.
 
+[.signed-section-closing]
 Signed in and on behalf of the said meeting, by
 
-Joseph Curtis, William Kenway, Robert Curtis, Joseph Hutchins, Tho.
-Westcombe.
+[.signed-section-signature]
+Joseph Curtis, William Kenway, Robert Curtis, Joseph Hutchins, Tho. Westcombe.
 
+--
+
+[.the-end]
 THE END.
