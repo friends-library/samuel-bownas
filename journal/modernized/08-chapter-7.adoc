@@ -1,5 +1,6 @@
 == Chapter VII.
 
+[.chapter-subtitle--blurb]
 An account of my travels into the North of England and Ireland the second time,
 in the year 1740.
 
