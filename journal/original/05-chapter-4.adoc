@@ -938,6 +938,9 @@ Neighbour Ray,
 Since thou hast advanced some arguments for thy taking tithes,
 I have somewhat to offer in answer thereto, for my refusal.
 
+[.numbered-group]
+====
+
 [.numbered]
 1st. Thou art pleased to write,
 "`I ought to thank thee for bearing with this injustice so long;`"
@@ -965,6 +968,8 @@ I conclude with thee, it is not spoiling of his goods.
 But to go to law, and by it take away people`'s goods,
 without such a valuable consideration as above, is spoiling of goods in my opinion,
 with a witness.
+
+====
 
 Thou writes me, "`I may as well seize of the glebe-lands,
 or upon anything else we possess, as upon the tithes.`"
@@ -1093,6 +1098,9 @@ I now assure thee, that it is not out of stubbornness, ill-humour, or covetousne
 but purely on a principle of conscience, for these reasons following,
 that I can neither pay nor receive tithes.
 
+[.numbered-group]
+====
+
 [.numbered]
 1st. The dedication of them is grossly superstitious,
 and I think protested against by most,
@@ -1131,8 +1139,7 @@ being a Protestant against that which I call popery, not in word and tongue only
 but in deed and truth also.
 
 [.numbered]
-Lastly.
-Tithes are not required by the Gospel, that I can understand.
+Lastly. Tithes are not required by the Gospel, that I can understand.
 If thou canst make it out, please to do it, for it is clear to me,
 that Christ came to finish and put an end to that law which required tithes,
 as well as to the priesthood supported by them;
@@ -1146,6 +1153,8 @@ as this deed of settlement will prove,
 and more instances of the like kind might be produced from sundry parts of the nation;
 a plain demonstration, that as we cannot pay tithes, neither can we receive them,
 when they are as legal a property to us as they are to you.
+
+====
 
 I could say more, but what is said may perhaps be tedious, and thought impertinent,
 therefore for the present this shall suffice.
